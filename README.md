@@ -5,7 +5,7 @@
 - :goal_net: 2022 Goals: Learning and traveling more
 - :zap: Fun fact: I love traveling, discovering and woodworking
 ### Connect with me:
-[![website](<a href="https://icons8.com/icon/8808/linkedin"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAABo0lEQVRoge2ZvUrEQBRGT1SwEdfCWiz0ESzFUsFd1lYUO0ufwUIWfBCfYTs1iqXvYCfq4iImlQhrEUUTZjIz+b24c+A24c7M+chO/hY8Hk9R+kAIxMCk5YqBa6DnGuJcgLyuBrYh+gJkTdW1CRIKEDXVVVY6UASJgAWbxC0SAYt/D6iCTJpxKU3KfaYti6qZ2iBPwD6w/F2HwKhqqarIu1psK/rbulyncN3sHeBdcewtZ0xdlNrsW4pjm8Vd6iXvdI6AI373yAHwbBgj8qclCX8fEY1rkEBTLj13JPeiFWCe5JlpAzgFXh19crHeYJoxOl6AHcPaS8DQ4GBaRylVZZA1m8WBOeDW4NFqEBdWgY+CLkqpuoLMWvRcuLg0fdU6AR6BT+ABOM7pHZZdrK4zsqeZU/f+vV7QpfYgN5o5Q01/R2qQsWbOsaY/cHFxfdZS9WfH2PQUmTd3zNQ+oojFB5GGDyINH0Qa/yaI/4oiDVWQuHELd7KfbZVB7hsQKYuVYw/zi3/btWubeCBAVldntiF+6JL8exoJkI+ASxzOhMfjSfMFRzMGRV1gLKEAAAAASUVORK5CYII="/></a>)](https://www.linkedin.com/in/enes-koc-819b51196/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/enes-koc-819b51196/)
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
