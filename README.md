@@ -1,11 +1,10 @@
-# Hi there, I am Enes Koc :wave:
-## I'm a Data analyst | Data Scientist.
-- :seedling: I’m currently learning Python, SQL
+# Merhaba, Ben Enes Koc:wave:
+## I'm a AWS | DevOps Engineer
+- :seedling: I’m currently learning Python, Linux
 - :dancers: I’m looking to collaborate with other developers
 - :goal_net: 2022 Goals: Learning and traveling more
 - :zap: Fun fact: I love traveling, discovering and woodworking
 ### Connect with me:
-
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/enes-koc-819b51196/)
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
