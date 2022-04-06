@@ -5,7 +5,7 @@
 - :goal_net: 2022 Goals: Learning and traveling more
 - :zap: Fun fact: I love traveling, discovering and woodworking
 ### Connect with me:
-<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-linkedin-16.png">
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/enes-koc-819b51196/)
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
