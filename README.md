@@ -1,4 +1,4 @@
-# Merhaba, Ben Enes Koc:wave:
+# Hello, I'm Enes Koc:wave:
 ##  I'm a Frontend Developer | backend Developer.
 - :seedling: I’m currently learning HTML, CSS and Javascript 
 - :dancers: I’m looking to collaborate with other developers
