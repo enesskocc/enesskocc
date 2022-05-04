@@ -1,6 +1,6 @@
 # Merhaba, Ben Enes Koc:wave:
-##  I'm a Data analyst | Data Scientist.
-- :seedling: I’m currently learning Python, SQL
+##  I'm a Frontend Developer | backend Developer.
+- :seedling: I’m currently learning HTML, CSS and Javascript 
 - :dancers: I’m looking to collaborate with other developers
 - :goal_net: 2022 Goals: Learning and traveling more
 - :zap: Fun fact: I love traveling, discovering and woodworking
