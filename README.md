@@ -6,7 +6,7 @@
 - :zap: Fun fact: I love traveling, discovering and woodworking
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/enes-koc-819b51196/)
-<a href="https://instagram.com/enesskocc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesskocc/" height="30" width="40" /></a>
+<a href="https://instagram.com/enesskocc/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesskocc/" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
