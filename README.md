@@ -6,6 +6,8 @@
 - :zap: Fun fact: I love traveling, discovering and woodworking
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/enes-koc-819b51196/)
+<a href="https://instagram.com/enesskocc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesskocc/" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
